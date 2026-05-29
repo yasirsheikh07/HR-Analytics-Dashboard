@@ -36,7 +36,9 @@ This Power BI dashboard analyzes employee attrition patterns and workforce demog
 
 ### HR Analytics Dashboard
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+### HR Analytics Dashboard
+
+![Dashboard Overview](https://raw.githubusercontent.com/yasirsheikh07/HR-Analytics-Dashboard/main/screenshots/hr_overview_dashboard.png)
 
 ### Employee Attrition Analysis
 
