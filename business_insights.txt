@@ -1,0 +1,17 @@
+HR Analytics Dashboard - Key Insights
+
+1. Overall employee attrition rate is 16.12%.
+
+2. Research & Development department experiences the highest employee attrition.
+
+3. Male employees contribute more to attrition compared to female employees.
+
+4. Employees earning up to 5K salary have the highest attrition count.
+
+5. Employees aged 26-35 years show the highest attrition rate.
+
+6. Laboratory Technicians and Sales Executives are the most affected job roles.
+
+7. Life Sciences and Medical education backgrounds contribute the highest attrition counts.
+
+8. Active employee count is 1233 out of a total workforce of 1470 employees.
