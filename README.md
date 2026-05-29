@@ -50,6 +50,17 @@ This Power BI dashboard analyzes employee attrition patterns and workforce demog
 - Data Visualization
 - Microsoft Excel
 
+## Power BI File
+
+The Power BI dashboard file is available inside:
+
+power_bi/HR_Analytics_Dashboard.pbix
+
+## Dataset
+
+Dataset: IBM HR Analytics Employee Attrition Dataset
+Records: 1470 Employees
+
 ## Repository Structure
 
 ```text
